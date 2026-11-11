@@ -4,7 +4,7 @@
 музыкальная студия: модель — дорожка, её версии — клипы, а цепочка устройств (данные → основа → характер →
 обучение → генерация → эффекты → оценка) — то, через что проходит ответ.
 
-### [⬇ Скачать Vasilisk Dev 0.9](https://github.com/VasiliskStudio/vasilisk-dev/releases/latest)
+### [⬇ Скачать Vasilisk Dev 0.9.1](https://github.com/VasiliskStudio/vasilisk-dev/releases/latest)
 
 Бесплатно: все версии до 1.0 бесплатны. Код частично закрыт; открытая часть — [Vasilisk X](https://github.com/VasiliskStudio/vasilisk-x)
 (MPL 2.0). Условия — [EULA.md](EULA.md).
@@ -28,7 +28,7 @@ Hugging Face, внимания в «Под капотом» и кнопок Vasi
 ## Установка
 
 1. Нужен мак на Apple Silicon (M1 и новее), macOS 14 или новее, от 8 ГБ памяти.
-2. Скачай `Vasilisk-Dev-0.9.dmg` со [страницы релизов](https://github.com/VasiliskStudio/vasilisk-dev/releases/latest),
+2. Скачай `Vasilisk-Dev-0.9.1.dmg` со [страницы релизов](https://github.com/VasiliskStudio/vasilisk-dev/releases/latest),
    открой его и перетащи «Vasilisk Dev» в «Программы».
 3. Сборка не подписана сертификатом Apple, поэтому при первом запуске нажми правой кнопкой по приложению →
    «Открыть» → «Открыть». Если macOS пишет «повреждено», выполни в Терминале:
